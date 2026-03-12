@@ -14,7 +14,20 @@
 
 ## 🌟 Nedir?
 
-NoteFlow, öğrencilerin notlarını oluşturmasını, düzenlemesini ve sınıf arkadaşlarıyla paylaşmasını sağlayan modern bir mobil uygulamadır. iOS, Android ve Web platformlarında çalışır.
+NoteFlow, öğrencilerin notlarını oluşturmasını, düzenlemesini ve sınıf arkadaşlarıyla paylaşmasını sağlayan modern bir mobil uygulamadır. Üniversitede not paylaşımının dağınık ve verimsiz olduğunu fark ederek geliştirdim. iOS, Android ve Web platformlarında çalışır.
+
+---
+
+## 📊 Proje İstatistikleri
+
+| Özellik | Değer |
+|---|---|
+| Platform | iOS, Android, Web |
+| Backend | Firebase Firestore |
+| Depolama | Cloudinary |
+| Erişim Seviyesi | 3 (Özel, Sınıf, Açık) |
+| Ders Klasörü | 5 |
+| Desteklenen Dosya | PDF, Fotoğraf |
 
 ---
 
@@ -78,4 +91,4 @@ npx expo start --tunnel
 
 ---
 
-**Can Yıldırıcı** — 2025 · ⭐ Beğendiysen yıldız atmayı unutma!
+**Can Yıldırıcı** — 2025
