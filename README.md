@@ -14,7 +14,7 @@
 
 ## 🌟 Nedir?
 
-NoteFlow, öğrencilerin notlarını oluşturmasını, düzenlemesini ve sınıf arkadaşlarıyla paylaşmasını sağlayan modern bir mobil uygulamadır. Üniversitede not paylaşımının dağınık ve verimsiz olduğunu fark ederek geliştirdim. iOS, Android ve Web platformlarında çalışır.
+NoteFlow, öğrencilerin notlarını oluşturmasını, düzenlemesini ve sınıf arkadaşlarıyla paylaşmasını sağlayan modern bir mobil uygulamadır. iOS, Android ve Web platformlarında çalışır.
 
 ---
 
