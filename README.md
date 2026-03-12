@@ -8,7 +8,7 @@
 
 | Ana Ekran | Arama | Koleksiyonlar | Klasörler | Profil |
 |-----------|-------|---------------|-----------|--------|
-| ![](assets/screenshots/1__sayfa.png) | ![](assets/screenshots/2__sayfa.png) | ![](assets/screenshots/3_sayfa.png) | ![](assets/screenshots/4_sayfa.png) | ![](assets/screenshots/5_sayfa.png) |
+| ![](https://raw.githubusercontent.com/canyildirici/NoteFlow/main/assets/screenshots/1.png) | ![](https://raw.githubusercontent.com/canyildirici/NoteFlow/main/assets/screenshots/2.png) | ![](https://raw.githubusercontent.com/canyildirici/NoteFlow/main/assets/screenshots/3.png) | ![](https://raw.githubusercontent.com/canyildirici/NoteFlow/main/assets/screenshots/4.png) | ![](https://raw.githubusercontent.com/canyildirici/NoteFlow/main/assets/screenshots/5.png) |
 
 ---
 
